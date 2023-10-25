@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Felipe!
 - 👀 Eu estou muito interessado em aprender mais sobre NodeJs, C# e Javascript e colaborar em projetos legais.
-- 🌱 Tenho conhecimentos em C# e me dedicado ao aprendizado de .NET e ASP.NET pela ALura e através de documentação na internet.
+- 🌱 Tenho conhecimentos em C# e me dedicado ao aprendizado de .NET e ASP.NET pela Alura e através de documentação na internet.
 - 📫 Entre em contato no e-mail: felipe.santos.freitas@outlook.com
 
 <div align="center">
